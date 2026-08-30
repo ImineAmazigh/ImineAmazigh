@@ -102,7 +102,7 @@ I'm a versatile developer with expertise across **multiple domains** - from back
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-ImineAmazigh-black?style=for-the-badge&logo=github)](https://github.com/ImineAmazigh)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail)](mailto:mazigh.iminem@gmail.com)
 
 </div>
 
